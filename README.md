@@ -1,1 +1,7 @@
-# Bank-Management-System
+# Bank Management System
+
+The Bank Management System is based on a concept to generate and maintain daily payment transactions with the customer’s account. Before stepping into the main system, the user has to pass through the login system to get access, then only they can use all the features of the system which includes adding, removing, updating and viewing records, withdraw and deposit cash feature and check details of existing customers.
+
+Talking about the features of the Bank Management System, while entering a customer's record they have to provide the current date, account number, name, date of birth, age, address, citizenship number, phone number, the amount deposited while creating an account and select account type. Under this, there are five types of account: Saving, Current, Fixed (for 1 year), Fixed (for 2 years), Fixed (for 3 years). But while updating customer’s information from existing accounts, they can only change addresses and phone numbers. There are two methods to check a user’s account in detail, i.e, by Account number or by Account name. The other listing record displays the customer's name with an Account number, address and contact detail.
+
+Transaction through a bank is either done by Depositing or Withdrawing amounts. Here the user can use both of the features easily. Whenever a user wants to withdraw or deposit some amount of money they provide an amount and the system automatically maintains their transaction record with total bank balance. Another feature is that while checking a customer’s account in detail the system will display a bank interest information. This system calculates interest per month and displays it to the user.
